@@ -13,4 +13,5 @@ knitr::opts_chunk$set(echo = TRUE)
 #another eay to insert an image
 #knitr::include_graphics("images/sweater.jpg")
 ```
+Adding a line to test my github key!
 
